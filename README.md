@@ -4,7 +4,7 @@ Merhaba, bu yazımda bazı senaryolar üzerinden ilerleyerek zararlı yazılım 
 
 ------------
 # Analizler
-- [Windows XP - Cridex Malware](https://github.com/kaganoglu/ram-imaj-analizi/blob/main/WindowsXP-Cridex.md[Windows  "Windows XP - Cridex Malware")
+- [Windows XP - Cridex Malware](https://github.com/kaganoglu/ram-imaj-analizi/blob/main/WindowsXP-Cridex.md "Windows  "Windows XP - Cridex Malware")
 - [Windows 7 - Lsass.exe](https://github.com/kaganoglu/ram-imaj-analizi/blob/main/windows7-Lsass.md "Windows 7 - Lsass.exe")
 ------------
 ![Volatile-Data-Embedded](https://user-images.githubusercontent.com/65306271/192142335-c7a39318-6486-44eb-be9e-9cc27bcb3f21.jpg)
